@@ -3,6 +3,10 @@ site_description: Technical Writing and Language Learning
 theme: material
 
 nav: 
+ - Home: index.md
  - About: About.md
- - Article1: article1.md
+ - Article 1: article1.md
+ - Article 2: article2.md
+ - Article 3: Article3.md
+ - Article 4: Article4.md
 
