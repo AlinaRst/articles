@@ -4,9 +4,8 @@ theme: material
 
 nav: 
  - Home: index.md
- - About: About.md
  - Cross Review: Article1.md
  - Feature Documentation: Article2.md
  - Interviewing: Article3.md
- - About Learning Languages: Article4.md
+ - Learning Languages: Article4.md
 
