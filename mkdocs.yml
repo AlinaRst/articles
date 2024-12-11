@@ -1,0 +1,8 @@
+site_name: Articles
+site_description: Technical Writing and Language Learning
+theme: material
+
+nav: 
+ - About: About.md
+ - Article1: article1.md
+
